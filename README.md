@@ -1,6 +1,6 @@
 # DSA-python-Interviews
 
-- This repo contains important solved leetCode problems for FAANG Interviews in python.
+- This repo contains important solved leetCode problems which will help you to crack FAANG Interviews in python.
 
 - I will keep updating it with every problem statement that I will solve.
 
